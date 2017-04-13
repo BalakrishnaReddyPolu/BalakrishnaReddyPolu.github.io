@@ -326,6 +326,7 @@ header ul li a {
     margin-left: 0;
   }
 }
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .grid-site-header {
     width: 50%;
